@@ -5,12 +5,23 @@ tags:
   - example-tag
 ---
 
-### Bio
+
+
+## Short Bio (200 words)
 I am a professor of computational anthropology
+
+
+## Long Bio
+
+
 
 ## Methods
 
 
+### Platforms
+How to use markets 
+
+### LLMs
 
 ## Empirical 
 
