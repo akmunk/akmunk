@@ -1,6 +1,7 @@
 ---
 title: Bio
 draft: false
+enableToc: true
 tags:
   - example-tag
 ---
