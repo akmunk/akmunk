@@ -1,3 +1,8 @@
-#Introduction
-###This is where the website is initialized
-*And this will be the landing page.
+---
+title: Example Title
+draft: false
+tags:
+  - example-tag
+---
+ 
+The rest of your content lives here. You can use **Markdown** here :)
