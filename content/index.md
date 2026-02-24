@@ -1,4 +1,9 @@
+---
+title: Anders Kristian Munk
+draft: false
+tags:
+  - example-tag
+---
 
-
-# Anders Kristian Munk
+### Bio
 I am a professor of computational anthropology
