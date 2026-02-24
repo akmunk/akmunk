@@ -1,5 +1,5 @@
 ---
-title: Example Title
+title: Anders Kristian Munk
 draft: false
 tags:
   - example-tag
