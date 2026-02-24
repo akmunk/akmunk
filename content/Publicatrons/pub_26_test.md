@@ -11,4 +11,4 @@ Cite as:
 > [!note]
 > This is a note
 
-[!note]
+[!note] 

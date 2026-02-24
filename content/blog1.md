@@ -1,5 +1,5 @@
 ---
-title: Anders Kristian Munk
+title: Blog 1
 draft: false
 tags:
   - example-tag
