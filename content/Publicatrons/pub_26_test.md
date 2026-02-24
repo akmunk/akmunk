@@ -1,5 +1,5 @@
 ---
-title: Beyond artificial intelligence controversies: What are algorithms doing in the scientific literature?
+title: Test case
 draft: false
 tags:
   - example-tag
