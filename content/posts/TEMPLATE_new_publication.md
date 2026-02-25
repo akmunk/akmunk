@@ -4,6 +4,7 @@ date: 2010-12-31
 tags:
   - publication
 draft: true
+enableToc: true
 ---
 
 

@@ -1,3 +1,10 @@
+---
+title: List of publications
+draft: false
+enableToc: true
+---
+
+
 ## Papers and proceedings (peer reviewed)
 
 - Søltoft, J.I. & Munk, A.K. (2025). [Recalcitrant audiencing: Between analytics and creative
