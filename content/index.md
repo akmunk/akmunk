@@ -6,7 +6,7 @@ tags:
   - example-tag
 ---
 
-
+This is where you can find my list of publications [[publications.md]]
 
 ## Short Bio (200 words)
 I am a professor of computational anthropology
