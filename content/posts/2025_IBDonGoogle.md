@@ -7,9 +7,9 @@ enableToc: true
 ---
 > [!abstract] Publication
 > 
->Citation APA
+>Moran, H., Elmhadi, R., Brusco de Freitas, M., Munk, A. K., & Jess, T. (2025). **A 15-year analysis of Inflammatory Bowel Disease in Africa using Google Trends**. Journal of Crohn's and Colitis, 19 (Supplement_1), i2280-i2282.
 >
->> [Full text](https://academic.oup.com/ecco-jcc/article/19/Supplement_1/i2277/7971773) available 
+>> [Full text](https://academic.oup.com/ecco-jcc/article/19/Supplement_1/i2277/7971773) available open access
 > 
 >> [!example]- BibTex
 >>
