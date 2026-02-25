@@ -20,7 +20,7 @@ tags:
   publisher={Routledge}
 }
 
-[!example]- BibTex
+> [!example]- BibTex
 >
 > ```bib title="bibliography.bib"
 > @incollection{munk2021tracing,
