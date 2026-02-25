@@ -5,18 +5,12 @@ tags:
   - publication
   - food
   - digital_methods
-draft: false
+draft: true
 ---
-
-
-
-
-
-
 
 > [!example]- BibTex
 >
-> ```
+> ```bib title="bibliography.bib"
 > @incollection{munk2021tracing,
 >  title={Tracing culinary discourse on Facebook: A digital methods approach},
 >  author={Munk, Anders Kristian},
