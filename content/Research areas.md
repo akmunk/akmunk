@@ -1,7 +1,7 @@
 ---
 title: Research areas
 enableToc: true
-draft: true
+draft: false
 ---
 
 ## Methods

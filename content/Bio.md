@@ -1,7 +1,7 @@
 ---
 title: Bio
 enableToc: true
-draft: true
+draft: false
 ---
 
 ## Short Bio (150 words)
