@@ -1,5 +1,5 @@
 ---
-title: DRAFT TITLE
+title: Beyond issue publics?
 date: 2010-09-20
 tags:
   - digital_methods
@@ -28,7 +28,7 @@ enableToc: true
 >>}
 >> ```
 
-When Facebook announced sweeping changes to their API in 2018 (aka the APIcalypse in digital methods), Asger Gehrt Olesen and I decided to put a question to the test that had been nagging us for a while - a question that would become much more complicated to address after the without broad API access to page data.
+When Facebook announced its sweeping changes to the Graph API in 2018 (aka the [APIcalypse](https://eprints.qut.edu.au/131676/1/After_the_0027APIcalypse_0027.pdf) in digital methods), Asger Gehrt Olesen and I decided to put a question to the test that had been nagging us for a while - a question that would become much more complicated to address after the without broad API access to page data.
 
 The standard protocol for data collection in digital controversy mapping is to follow the issue. In short, this means harvesting data that uses certain issue-related keywords, and on Facebook specifically the only way to do that was to find groups and pages dedicated to those keywords. The problem with that, however, is that we do not know if the signals we see in the data are signals of the controversy or instances of some larger trend on the platform. 
 
