@@ -16,3 +16,4 @@ enableToc: true
 - Coromina, Ò., Tsinovoi, A., & Munk, A. K. (2023). [Digital marketing as digital methods: Repurposing Google Ads for controversy mapping](https://journals.sagepub.com/doi/pdf/10.1177/20539517231216955). Big Data & Society, 10(2)
 - Munk, A. K., Olesen, A. G., & Jacomy, M. (2022). [[2022_ThickMachine|The thick machine: Anthropological AI between explanation and explication]]. Big Data & Society, 9(1)
 - Munk, A. K. (2021). [[2021_CulinaryDiscourseFacebook|Tracing culinary discourse on Facebook: A digital methods approach]]. In Research methods in digital food studies (pp. 201-219). Routledge.
+- Munk, A. K., & Olesen, A. G. (2020). [[2020_BeyondIssuePublics|Beyond issue publics? Curating a corpus of generic Danish debate in the dying days of the Facebook API]]. _STS Encounters_, _11_(1).

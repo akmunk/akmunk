@@ -8,7 +8,7 @@ tags:
   - mispredictions
   - friction
   - facebook
-draft: true
+draft: false
 enableToc: true
 ---
 > [!abstract] Publication
@@ -32,7 +32,20 @@ Munk, A. K., Olesen, A. G., & Jacomy, M. (2022). The thick machine: Anthropologi
 >>}
 >> ```
 
-I wrote this paper together with Asger Gehrt Olesen and Mathieu Jacomy for a conference on ***Machine Anthropology*** organized by Morten Axel Pedersen at the University of Copenhagen in 2020
+I wrote this paper together with Asger Gehrt Olesen and Mathieu Jacomy for a conference on ***Machine Anthropology*** organized by Morten Axel Pedersen at the University of Copenhagen in 2020. The papers from the conference later became part of a [special issue in Big Data & Society](https://journals.sagepub.com/page/bds/collections/machineanthropology), also edited by Morten.
+
+The paper explores the possibility of repurposing supervised machine learning for so-called *thick description*, i.e. the interpretation of cultural meaning in context. 
+
+We go back to the debate between Clifford Geertz (who made thick description famous) and his contemporary ethnoscientists and devise a game (physical arcade style, see below) in which humans have to compete with a machine learning classifier to predict emoji reactions in online political discourse. 
+
+![[2022_ThickMachine_1.png]]
+
+
+
+We draw on a [[2020_BeyondIssuePublics|dataset of public Danish Facebook pages]] (curated by Asger and myself in before the 2018 API changes as the).
+
+Jill Rettberg 
+
 
 > [!quote] p.2
 > This antagonism between interpretative and explanatory ambitions is still at play in anthropological engagements with computation today, where it locates the use of algorithms solidly, but erroneously, with the latter and as antithetical to the former.
@@ -46,7 +59,5 @@ I wrote this paper together with Asger Gehrt Olesen and Mathieu Jacomy for a con
 
 
 
-
-![[2022_ThickMachine_1.png]]
 
 ![[2022_ThickMachine_2.png]]
