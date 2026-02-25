@@ -1,12 +1,12 @@
 ---
-title: Tracing Culinary Discourse on Facebook
-date: 2021-12-10 format.
+title: DRAFT TITLE
+date: 2010-12-31
 tags:
   - publication
-  - food
-  - digital_methods
 draft: true
 ---
+
+
 
 > [!example]- BibTex
 >
