@@ -1,5 +1,5 @@
 ---
-title: Bio
+title: Welcome to my research blog
 draft: false
 enableToc: true
 tags:

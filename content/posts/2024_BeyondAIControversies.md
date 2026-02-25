@@ -1,5 +1,5 @@
 ---
-title: DRAFT TITLE
+title: Beyond AI Controversies
 date: 2010-12-31
 tags:
 draft: true
@@ -7,9 +7,9 @@ enableToc: true
 ---
 > [!abstract] Publication
 > 
->Citation APA
+>Munk, A. K., Jacomy, M., Ficozzi, M., & Jensen, T. E. (2024). **Beyond artificial intelligence controversies: What are algorithms doing in the scientific literature?**. Big Data & Society, 11(3)
 >
->> Link to full text
+>> [Full text](https://journals.sagepub.com/doi/pdf/10.1177/20539517241255107) available open access.
 > 
 >> [!example]- BibTex
 >>

@@ -7,9 +7,9 @@ enableToc: true
 ---
 > [!abstract] Publication
 > 
->Citation APA
+>Pilati, F., Munk, A., & Venturini, T. (2024). **Generative AI for social research: Going native with artificial intelligence**. Sociologica, 18(2), 1-8.
 >
->> Link to full text
+>> [Full text](https://boa.unimib.it/bitstream/10281/529322/1/Pilati-2024-Sociologica-VoR.pdf) available open access.
 > 
 >> [!example]- BibTex
 >>
