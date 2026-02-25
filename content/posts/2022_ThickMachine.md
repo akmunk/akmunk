@@ -13,7 +13,7 @@ enableToc: true
 ---
 > [!abstract] Publication
 > 
-Munk, A. K., Olesen, A. G., & Jacomy, M. (2022). The thick machine: Anthropological AI between explanation and explication. Big Data & Society, 9(1)
+> Munk, A. K., Olesen, A. G., & Jacomy, M. (2022). The thick machine: Anthropological AI between explanation and explication. Big Data & Society, 9(1)
 >
 > [Full text](https://journals.sagepub.com/doi/pdf/10.1177/20539517211069891?trk=public_post_comment-text) available open access.
 > 
@@ -40,12 +40,14 @@ We go back to the debate between Clifford Geertz (who made thick description fam
 
 ![[2022_ThickMachine_1.png]]
 
+The game draws on a [[2020_BeyondIssuePublics|dataset of public Danish Facebook pages]] (curated by Asger and myself in before the 2018 API changes as the). Players are presented with a post and a comment from Facebook. They then have to guess how the commenter emoji reacted to the post. 
 
+As it turns out, neither the human players nor the trained machine learning classifier are very good at it. Indeed, they are wrong in the same situations and when we investigate those situations they turn out to be deeper with conflicting layers of meaning. 
 
-We draw on a [[2020_BeyondIssuePublics|dataset of public Danish Facebook pages]] (curated by Asger and myself in before the 2018 API changes as the).
+![[2022_ThickMachine_2.png]]
+This leads us to speculate, that machine learning mispredictions can be repurposed as a way to identify situations where thick description is required. Jill Rettberg has since [reproduced this approach on different datasets and argues that it generalizes as a method for the humanities](https://journals.sagepub.com/doi/10.1177/20539517221131290). She even made a nice [video explainer](https://www.youtube.com/watch?v=BDvMlBQKt_I) about it. 
 
-Jill Rettberg 
-
+Ultimately, we take the experiment as an impetus to discuss the way we frame the potential use of computational methods in anthropology. Particularly, we are critical of the way computation is often all too readily associated with formalist ambitions. 
 
 > [!quote] p.2
 > This antagonism between interpretative and explanatory ambitions is still at play in anthropological engagements with computation today, where it locates the use of algorithms solidly, but erroneously, with the latter and as antithetical to the former.
@@ -58,6 +60,3 @@ Jill Rettberg
 
 
 
-
-
-![[2022_ThickMachine_2.png]]
