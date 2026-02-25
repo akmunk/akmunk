@@ -40,7 +40,7 @@ It can be read as an introduction to digital methods like web scraping and visua
 > 
 > The strength of visual network analysis is that it does not presume any prior categories, except for the kind of relationality we choose to include as edges between the nodes. (...)This is a fundamentally explorative process that is useful for setting a direction for further qualitative work. It is not a way to confirm or refute a hypothesis with some degree of probability. We are using quantitative techniques to do qualitative ground work on volumes of messy data that would otherwise be impossible to handle. 
 
-I share a series of annotated intermediary visualization taken as notes during my own analytical process and share the [example data](https://github.com/akmunk/ediblenorth/blob/master/ChefNetwork.gexf) that allows you to reproduce the results in Gephi or Gephi Lite.
+In the chapter, I share a series of annotated intermediary visualization taken as notes during my own analytical process (samples below) and I share the [example data](https://github.com/akmunk/ediblenorth/blob/master/ChefNetwork.gexf) that allows you to reproduce the results in Gephi or Gephi Lite. 
 
 ![[2021_CulinaryDiscourceFacebook_1.png]]
 ![[2021_CulinaryDiscourceFacebook_6.png]]

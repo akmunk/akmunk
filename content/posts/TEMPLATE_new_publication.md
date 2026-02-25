@@ -2,22 +2,28 @@
 title: DRAFT TITLE
 date: 2010-12-31
 tags:
-  - publication
 draft: true
 enableToc: true
 ---
-
-
-
-> [!example]- BibTex
+> [!abstract] Publication
+> 
+>Citation APA
 >
-> ```bib title="bibliography.bib"
-> @incollection{munk2021tracing,
->  title={Tracing culinary discourse on Facebook: A digital methods approach},
->  author={Munk, Anders Kristian},
->  booktitle={Research methods in digital food studies},
->  pages={201--219},
->  year={2021},
->  publisher={Routledge}
->}
-> ```
+> Link to full text
+> 
+>> [!example]- BibTex
+>>
+>>```
+>>@incollection{munk2021tracing,
+>>title={title},
+>> author={name},
+>>booktitle={title of book},
+>>  pages={0--100},
+>>  year={1900},
+>>  publisher={publisher}
+>>}
+>> ```
+
+> [!quote] page nr.
+> Some quote
+
