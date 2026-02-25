@@ -27,13 +27,14 @@ enableToc: true
 >>}
 >> ```
 
-This text book chapter is published in ***Research Methods in Digital Food Studies*** edited by Jonathan Leer and Stinne Gunder Strøm Krogager and shows how to map discursive patterns in online food talk. 
+I wrote this text book chapter based on follow-on research from the Edible North project funded by the Carlsberg Foundation between 2012 and 2015. The project employed  a combination of digital and ethnographic methods to map the diffusion of the New Nordic Food Phenomenon across issue contexts in Scandinavia and beyond. When Facebook announced sweeping changes its API policies in 2018, I took the opportunity to build global dataset of food pages investigate the way Nordic chefs were being cited.  
 
-It can be read as a 
+The chapter is published in ***Research Methods in Digital Food Studies*** edited by Jonathan Leer and Stinne Gunder Strøm Krogager and shows how to map discursive patterns in online food talk. 
+
+It can be read as an introduction to digital methods for 
 
 > [!quote] p.201
 > In a dataset of 102M posts collected from 242K food-related Facebook pages worldwide, I track mentions of almost 700 chefs. I construct a ‘co-chef’ network (a network of chefs connected to each other if they are mentioned by the same pages) which I subject to a visual network analysis. I provide the network file so that you can follow my steps but it is of course also possible to take a different direction on your own (for example based on a smaller dataset, differently curated, or from a different medium). I also provide a series of intermediary visualizations annotated with my field notes which will hopefully make my thought process clearer.  
-
 
 > [!quote] p.217
 > 
@@ -41,3 +42,4 @@ It can be read as a
 
 
 ![[2021_CulinaryDiscourceFacebook_1.png]]
+
