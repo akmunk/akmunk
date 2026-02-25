@@ -1,5 +1,5 @@
 ---
-title: Tracing Culinary Discourse on Facebook
+title: Culinary Discourse on Facebook
 date: 2021-12-10
 tags:
   - food
@@ -10,7 +10,7 @@ enableToc: true
 
 > [!abstract] Publication
 > 
->Munk, A. K. (2021). Tracing culinary discourse on Facebook: A digital methods approach. In _Research methods in digital food studies_ (pp. 201-219). Routledge.
+>Munk, A. K. (2021). **Tracing culinary discourse on Facebook: A digital methods approach**. In _Research methods in digital food studies_ (pp. 201-219). Routledge.
 >
 >> Accepted author manuscript available as [full text here](https://vbn.aau.dk/ws/files/427726913/Munk_TracingCulinaryDiscourse_Final.pdf)
 > 

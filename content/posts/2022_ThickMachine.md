@@ -1,5 +1,5 @@
 ---
-title: "The Thick Machine: Anthropological AI between explication and explanation"
+title: The Thick Machine
 date: 2022-11-01
 tags:
   - computational_anthropology
@@ -13,7 +13,7 @@ enableToc: true
 ---
 > [!abstract] Publication
 > 
-> Munk, A. K., Olesen, A. G., & Jacomy, M. (2022). The thick machine: Anthropological AI between explanation and explication. Big Data & Society, 9(1)
+> Munk, A. K., Olesen, A. G., & Jacomy, M. (2022). **The thick machine: Anthropological AI between explanation and explication**. Big Data & Society, 9(1)
 >
 >> [Full text](https://journals.sagepub.com/doi/pdf/10.1177/20539517211069891?trk=public_post_comment-text) available open access.
 > 

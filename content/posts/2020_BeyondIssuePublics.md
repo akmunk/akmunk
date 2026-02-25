@@ -1,6 +1,6 @@
 ---
 title: Beyond issue publics?
-date: 2010-09-20
+date: 2020-09-20
 tags:
   - digital_methods
   - facebook
@@ -35,8 +35,7 @@ The standard protocol for data collection in digital controversy mapping is to f
 We therefore decided to build a dataset of Danish Facebook debate that was not issue specific. The Danish Facebook Atlas covers more 70,000 pages, including posts, comments and user interactions, over a 10-year period. It allows us to compare activity around controversial topics - in this case the HPV vaccine - with general patterns in activity, and it allows us to include issue-relevant discussions that do not take place on issue-dedicated groups or pages. 
 
 ![[2020_BeyondIssuePublics_1.png]]
-The paper is published as part of a special issue of STS Encounters - [engaging the data moment](https://tidsskrift.dk/encounters/issue/view/9905) edited by James Maguire, Henriette Langstrup, Peter Danholt, and Christo
-
+The paper is published as part of a special issue of STS Encounters - [engaging the data moment](https://tidsskrift.dk/encounters/issue/view/9905) edited by James Maguire, Henriette Langstrup, Peter Danholt, and Christopher Gad. As such, it also discusses the broader predicament of digital methods and digital STS in a time where platforms are increasingly asserting ownership and control over data.
 
 > [!quote] p.65
 > The problem with mapping controversies in topically delimited datasets (...) is that we risk naturalizing any pattern we find as indicative of said controversy. Developments in activity over time in a set of tweets with the same hashtag are easily construed as having something to do with that hashtag (i.e. the dynamics of the controversy) but there is no way of knowing if the changes are actually reflective of some larger trend on the platform.
