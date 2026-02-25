@@ -7,7 +7,7 @@ tags:
 ---
 
 ## Where to find my shit
-This is where you can find my list of publications [[publications]]
+This is where you can find my list of publications on the site: [[publications]]
 
 ## Short Bio (200 words)
 I am a professor of computational anthropology
