@@ -1,6 +1,6 @@
 ---
 title: Tracing Culinary Discourse on Facebook
-date: 2021-12-10 format.
+date: 2021-12-10
 tags:
   - publication
   - food
@@ -16,7 +16,7 @@ draft: false
 
 > [!example]- BibTex
 >
-> ```
+> ```bib title="bibliography.bib"
 > @incollection{munk2021tracing,
 >  title={Tracing culinary discourse on Facebook: A digital methods approach},
 >  author={Munk, Anders Kristian},
