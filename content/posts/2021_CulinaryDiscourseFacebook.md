@@ -10,8 +10,10 @@ draft: false
 
 
 
-
-
+> [!info]
+> Published as a book chapter in ***Research Methods in Digital Food Studies*** edited by Jonathan Leer and Stinne Gunder Strøm Krogager. 
+> Cite as:
+> 
 
 
 > [!example]- BibTex

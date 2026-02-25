@@ -56,7 +56,7 @@ $$
 ### Inline Math
 
 Similarly, inline math can be rendered by delimiting math expression with a single `$`. For example, `$e^{i\pi} = -1$` produces $e^{i\pi} = -1$
-
+	
 ### Escaping symbols
 
 There will be cases where you may have more than one `$` in a paragraph at once which may accidentally trigger MathJax/Katex.
