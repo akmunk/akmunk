@@ -1,5 +1,5 @@
 ---
-title: List of publications
+title: Publications
 draft: false
 enableToc: true
 ---
