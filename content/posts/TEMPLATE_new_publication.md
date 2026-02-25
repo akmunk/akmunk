@@ -9,7 +9,7 @@ enableToc: true
 > 
 >Citation APA
 >
-> Link to full text
+>> Link to full text
 > 
 >> [!example]- BibTex
 >>
