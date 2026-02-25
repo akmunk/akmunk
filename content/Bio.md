@@ -1,15 +1,15 @@
 ---
 title:
 enableToc: true
-draft: true
+draft: false
 ---
 
-## Short Bio (200 words)
-I am a professor of computational anthropology
+## Short Bio (150 words)
+Anders Kristian Munk is Professor of Computational Anthropology at DTU Management. 
+## Longer Bio (250 words)
+Anders Kristian Munk is Professor of Computational Anthropology and Director of the Observatory for Human-Centred Engineering (ECHOlab) at DTU Management, Section for Science & Technology Studies. His 
 
-
-## Long Bio
-
+## Full bio
 
 
 ## Methods
@@ -20,9 +20,9 @@ How to use markets
 
 ### LLMs
 
-## Empirical 
+### Empirical resarch areas 
 
-### Food
+#### Food
 Edible North: Mapping the New Nordic Food Movement
 Tracing Cullinary Discourse on Facebook
 Wine 
