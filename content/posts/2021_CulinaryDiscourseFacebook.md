@@ -1,10 +1,11 @@
 ---
 title: Tracing Culinary Discourse on Facebook
-draft: false
+date: 2021-12-10 format.
 tags:
   - publication
   - food
   - digital_methods
+draft: false
 ---
 
 
