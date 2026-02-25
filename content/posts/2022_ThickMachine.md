@@ -32,6 +32,8 @@ Munk, A. K., Olesen, A. G., & Jacomy, M. (2022). The thick machine: Anthropologi
 >>}
 >> ```
 
+I wrote this paper together with Asger Gehrt Olesen and Mathieu Jacomy for a conference on ***Machine Anthropology*** organized by Morten Axel Pedersen at the University of Copenhagen in 2020
+
 > [!quote] p.2
 > This antagonism between interpretative and explanatory ambitions is still at play in anthropological engagements with computation today, where it locates the use of algorithms solidly, but erroneously, with the latter and as antithetical to the former.
 
