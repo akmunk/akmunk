@@ -8,7 +8,7 @@ tags:
 ## Where to find my shit
 This is where you can find my list of publications on the site: [[Publications]]
 
-I use the [[content/posts/index|blog]] to post running notes about 
+I use the [[|blog]] to post running notes about 
 
 This is also where I maintain my [[CV]] and my [[Publications|list of publications]].
 
