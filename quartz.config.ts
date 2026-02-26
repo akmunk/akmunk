@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Anders Kristian Munk's Research Blog",
-    pageTitleSuffix: "Munk",
+    pageTitleSuffix: " | AK Munk",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
