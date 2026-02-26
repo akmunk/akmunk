@@ -4,23 +4,17 @@ enableToc: true
 draft: false
 ---
 
-## Methods
 
 
-### Platforms
-How to use markets 
-
-### LLMs
-
-### Empirical resarch areas 
-
-#### Food
+## Empirical research areas 
+My research focus on a variety of 
+### Food
 Edible North: Mapping the New Nordic Food Movement
 Tracing Cullinary Discourse on Facebook
 Wine 
 Digital Food
 
-### Health
+## Health
 HPV
 Stem Cells
 Crohns
@@ -28,7 +22,7 @@ Obesity
 Ageing
 COVID
 
-### Energy
+## Energy
 Wind turbines
 Energy islands
 
@@ -42,6 +36,7 @@ DIGI-Front
 
 ### Climate change
 
+I am currently coPI on a project funded by the 
 
 ### Cities
 MOVEO
@@ -50,3 +45,13 @@ Tourism
 
 ### Security
 Puck
+
+## Methodological focus
+## Theoretical focus
+
+### Actor-Network Theory
+I have written several text books on ANT
+
+### Market sociology
+
+
