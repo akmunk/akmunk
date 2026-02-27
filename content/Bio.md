@@ -4,9 +4,10 @@ enableToc: true
 draft: true
 ---
 
-## Short Bio (75 words)
+## Ultra short bio (30 words)
 Anders Kristian Munk is Professor of Computational Anthropology at DTU Management. His research focuses on technological controversies in society and the integration of qualitative and computational methods for controversy mapping.
 
+## Short bio (100 words)
 
 where he focuses on public engagement with technology and controversies surrounding  technological innovation in society. 
 
