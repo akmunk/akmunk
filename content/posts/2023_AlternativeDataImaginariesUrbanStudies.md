@@ -2,6 +2,12 @@
 title: Alternative Data Imaginaries in Urban Studies
 date: 2010-12-31
 tags:
+  - Corona
+  - COVID-19
+  - Instagram
+  - urban_studies
+  - computer_vision
+  - digital_methods
 draft: true
 enableToc: true
 ---
