@@ -9,7 +9,7 @@ tags:
 draft: false
 enableToc: true
 ---
-> [!abstract] Publication
+> [!abstract] PUBLICATION
 > 
 >Munk, A. K., & Olesen, A. G. (2020). **Beyond issue publics? Curating a corpus of generic Danish debate in the dying days of the Facebook API**. _STS Encounters_, _11_(1).
 >> [Full text](https://tidsskrift.dk/encounters/article/view/135275/180057) available open access.

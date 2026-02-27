@@ -12,7 +12,7 @@ tags:
 draft: true
 enableToc: true
 ---
-> [!abstract] Publication
+> [!abstract] PUBLICATION
 > 
 > Coromina, Ò., Tsinovoi, A., & Munk, A. K. (2023). **Digital marketing as digital methods: Repurposing Google Ads for controversy mapping**. Big Data & Society, 10(2)
 >

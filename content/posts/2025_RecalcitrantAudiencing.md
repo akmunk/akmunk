@@ -5,7 +5,7 @@ tags:
 draft: true
 enableToc: true
 ---
-> [!abstract] Publication
+> [!abstract] PUBLICATION
 > 
 Søltoft, J.I. & Munk, A.K. (2025). **Recalcitrant audiencing: Between analytics and creative practice in the film industry**. Convergence, 0(0).
 >

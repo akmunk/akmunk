@@ -5,7 +5,7 @@ tags:
 draft: true
 enableToc: true
 ---
-> [!abstract] Publication
+> [!abstract] PUBLICATION
 > 
 >Pilati, F., Munk, A., & Venturini, T. (2024). **Generative AI for social research: Going native with artificial intelligence**. Sociologica, 18(2), 1-8.
 >

@@ -5,7 +5,7 @@ tags:
 draft: true
 enableToc: true
 ---
-> [!abstract] Publication
+> [!abstract] PUBLICATION
 > 
 >Munk, A. K., Jacomy, M., Ficozzi, M., & Jensen, T. E. (2024). **Beyond artificial intelligence controversies: What are algorithms doing in the scientific literature?**. Big Data & Society, 11(3)
 >

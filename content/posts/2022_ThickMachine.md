@@ -11,7 +11,7 @@ tags:
 draft: false
 enableToc: true
 ---
-> [!abstract] Publication
+> [!abstract] PUBLICATION
 > 
 > Munk, A. K., Olesen, A. G., & Jacomy, M. (2022). **The thick machine: Anthropological AI between explanation and explication**. Big Data & Society, 9(1)
 >

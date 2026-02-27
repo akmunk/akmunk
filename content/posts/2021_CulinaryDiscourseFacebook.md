@@ -8,7 +8,7 @@ draft: false
 enableToc: true
 ---
 
-> [!abstract] Publication
+> [!abstract] PUBLICATION
 > 
 >Munk, A. K. (2021). **Tracing culinary discourse on Facebook: A digital methods approach**. In _Research methods in digital food studies_ (pp. 201-219). Routledge.
 >
