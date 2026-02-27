@@ -16,6 +16,7 @@ enableToc: true
 - Hoeyer, K., Couturier, A., Barawi, K., Drew, C., Grundtvig, A., Lane, E., Munk, A.K., Whiteley, L.E. & Munsie, M. (2024). [Searching for information about stem cells online in an age of artificial intelligence: How should the stem cell community respond?](https://www.cell.com/stem-cell-reports/fulltext/S2213-6711(23)00502-7). Stem Cell Reports, 19(2), 159-162.
 - Munk, A. K.  (2023). [[2023_ComingOfAgeStableDiffusion|Coming of Age in Stable Diffusion]]. Anthropology Now, American Anthropological Association.
 - Coromina, Ò., Tsinovoi, A., & Munk, A. K. (2023). [[2023_DigitalMarketingMethods|Digital marketing as digital methods: Repurposing Google Ads for controversy mapping]]. Big Data & Society, 10(2)
+- 
 - Munk, A. K., Olesen, A. G., & Jacomy, M. (2022). [[2022_ThickMachine|The thick machine: Anthropological AI between explanation and explication]]. Big Data & Society, 9(1)
 - Munk, A. K. (2021). [[2021_CulinaryDiscourseFacebook|Tracing culinary discourse on Facebook: A digital methods approach]]. In Research methods in digital food studies (pp. 201-219). Routledge.
 - Winthereik, B. R., de Neergård, K. P., & Munk, A. K. (2020). [Når virkeligheden rystes i sin grundvold – effekter af nedlukningen](https://tidsskrift.dk/samfundsokonomen/article/view/123563), Samfundøkonomen, 2020(4), 70-76.
