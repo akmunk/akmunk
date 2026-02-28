@@ -5,6 +5,11 @@ enableToc: true
 tags:
 ---
 
+Welcome to my website and research blog. I use it to post and maintain updated CV, publication lists, etc. You a find the following: 
+
+
+
+
 ## Where to find my shit
 This is where you can find my list of publications on the site: [[Publications]]
 
