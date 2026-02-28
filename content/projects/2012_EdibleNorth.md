@@ -1,7 +1,7 @@
 ---
 title: Edible North
 tags:
-draft: true
+draft: false
 enableToc: true
 ---
 > [!info] PROJECT INFORMATION
