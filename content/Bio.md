@@ -1,6 +1,6 @@
 ---
 title: Bio(s) and press
-enableToc: true
+enableToc: false
 draft: true
 ---
 
