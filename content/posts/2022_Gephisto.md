@@ -2,7 +2,7 @@
 title: Gephisto
 date: 2010-12-31
 tags:
-draft: true
+draft: false
 enableToc: true
 ---
 > [!abstract] PUBLICATION

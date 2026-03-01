@@ -2,7 +2,7 @@
 title: Mapping the Epistemic Geographies of the IPCC
 date: 2026-01-15
 tags:
-draft: true
+draft: false
 enableToc: true
 ---
 > [!abstract] PUBLICATION

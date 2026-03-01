@@ -8,7 +8,7 @@ tags:
   - urban_studies
   - computer_vision
   - digital_methods
-draft: true
+draft: false
 enableToc: true
 ---
 > [!abstract] PUBLICATION

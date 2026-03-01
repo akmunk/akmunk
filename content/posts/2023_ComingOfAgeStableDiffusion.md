@@ -2,7 +2,7 @@
 title: Coming of Age in Stable Diffusion
 date: 2023-06-01
 tags:
-draft: true
+draft: false
 enableToc: true
 ---
 > [!abstract] PUBLICATION
