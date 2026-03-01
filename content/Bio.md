@@ -1,7 +1,7 @@
 ---
 title: Bio(s) and press
-enableToc: false
-draft: true
+enableToc: true
+draft: false
 ---
 
 ## Ultra short bio (30 words)
