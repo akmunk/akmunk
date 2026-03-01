@@ -25,9 +25,9 @@ Border: #3625ba
 Background: hsla(247, 67%, 74%, 0.065)
 
 #### Question, 
-Colour: 
-Border: 
-Background:
+Colour: #ff9933
+Border: #e67300
+Background: #ffc08014
 #### Example
 Colour: #347564
 Border: #1c4037
