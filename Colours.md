@@ -20,3 +20,9 @@ Used for markdown highlight. I am assuming this means double equals, ==like this
 
 ## Callouts
 
+Turqoise: #40E0D0
+Yellow: #F9E076
+Orange: #ff9933
+Green: #347564
+
+	Background Majorelle: 

@@ -44,7 +44,7 @@
   &[data-callout="abstract"] {
     --color: #6050DC;
     --border: #9a90e9;
-    --bg: #9a90e9;
+    --bg: hsla(247, 67%, 74%, 0.315);
     --callout-icon: var(--callout-icon-abstract);
   }
 
@@ -52,7 +52,7 @@
   &[data-callout="todo"] {
     --color: #6050DC;
     --border: #9a90e9;
-    --bg: #9a90e9;
+    --bg: hsla(247, 67%, 74%, 0.315);
     --callout-icon: var(--callout-icon-info);
   }
 
