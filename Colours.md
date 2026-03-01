@@ -6,12 +6,17 @@ Marjorelle blue
 
 #### Tertiary
 Selected menu items, mouse over
+#9a90e9
        
 #### Highlight
 Background for internal links (wikilins).
+#ffffffff
 
 #### textHighlight
 Used for markdown highlight. I am assuming this means double equals, ==like this==, but not sure. Could also be back tilted quotes in code.
 
 
+
+
+## Callouts
 
