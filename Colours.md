@@ -22,7 +22,7 @@ Used for markdown highlight. I am assuming this means double equals, ==like this
 #### Abstract, Info, 
 Colour: #6050DC 
 Border: #9a90e9
-Background: hsla(247, 67%, 74%, 0.315)
+Background: hsla(247, 67%, 74%, 0.065)
 
 #### Question, 
 Colour: 
