@@ -19,10 +19,20 @@ Used for markdown highlight. I am assuming this means double equals, ==like this
 
 
 ## Callouts
+#### Abstract, Info, 
+Colour: #6050DC 
+Border: #9a90e9
+Background
+
+#### Question, 
+
+
+#### BibTex
+
 
 Turqoise: #40E0D0
 Yellow: #F9E076
 Orange: #ff9933
 Green: #347564
 
-	Background Majorelle: 
+
