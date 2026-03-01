@@ -22,13 +22,16 @@ Used for markdown highlight. I am assuming this means double equals, ==like this
 #### Abstract, Info, 
 Colour: #6050DC 
 Border: #9a90e9
-Background
+Background: hsla(247, 67%, 74%, 0.315)
 
 #### Question, 
-
-
+Colour: 
+Border: 
+Background:
 #### BibTex
-
+Colour: #40E0D0
+Border: #82ebe0
+Background: 
 
 Turqoise: #40E0D0
 Yellow: #F9E076
