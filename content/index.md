@@ -16,7 +16,7 @@ I use this space to post running notes about my work and maintain updated public
 
 > My [[Research areas|research areaas]] and a list of [[projects/|projects]] 
 ## Other channels
-==Social media==: 
+
 
 
 
