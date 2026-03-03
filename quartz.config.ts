@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Anders Kristian Munk // digital STS, controversy mapping, computational anthropology",
+    pageTitle: "Anders Kristian Munk // Researcher",
     pageTitleSuffix: " | AK Munk",
     enableSPA: true,
     enablePopovers: true,
