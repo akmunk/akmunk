@@ -15,7 +15,7 @@ Background for internal links (wikilins).
 #### textHighlight
 Used for markdown highlight. I am assuming this means double equals, ==like this==, but not sure. Could also be back tilted quotes in code.
 
-
+#d4d0f6
 
 
 ## Callouts
