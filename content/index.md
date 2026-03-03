@@ -5,9 +5,7 @@ enableToc: true
 tags:
 ---
 
-Welcome to my personal website and research blog. 
-
-I use this space to post running notes about my work and maintain updated publication lists, CV, etc. This is partly for my own convenience. Notes help me keep track of what I have done, things that inerest me) , so bear with me 
+Welcome to my personal website and research blog. I am Professor of Computational Anthropology and Controversy Mapping at the Technical University of Denmark where I study complex technological problems in society and develop new methods to monitor and understand them. I have a backround in European Ethnology, Human Geography and STS, and I have since then. I use this space to post running notes about my work and maintain updated biographical information.
 ## Expect to find the following
 
 > I maintain an updated [[CV]], [[Publications|list of publications]] and selection of [[Bio|bios of various lengths]]. This is partly for my own convenience. 
