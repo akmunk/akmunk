@@ -16,9 +16,11 @@ I use this space to post running notes about my work and maintain updated public
 
 > My [[Research areas|research areaas]] and a list of [[projects/|projects]] 
 ## Other channels
-> ==Social media==: Follow me on [LinkedIn](https://www.linkedin.com/in/akmunk/), Bluesky, Mastodon and Twitter (not updated). You can also follow the Observatory for Human-Centred Engineering (ECHOlab) on [LinkedIn](https://www.linkedin.com/company/echodtu/) and Bluesky, the Section for Science & Technology Studies on [LinkedIn](https://www.linkedin.com/company/sts-at-dtu/), and the Public Datalab on Bluesky, Mastodon, and Linkedin.
+> ==Social media==: Follow me on [LinkedIn](https://www.linkedin.com/in/akmunk/), [Bluesky](https://bsky.app/profile/akmunk.bsky.social), and [Mastodon](https://mas.to/@AndersKMunk). You can also follow the Observatory for Human-Centred Engineering (ECHOlab) on [LinkedIn](https://www.linkedin.com/company/echodtu/) and [Bluesky](https://bsky.app/profile/echodtu.bsky.social), the Section for Science & Technology Studies at DTU on [LinkedIn](https://www.linkedin.com/company/sts-at-dtu/), or the Public Datalab on [Bluesky](https://bsky.app/profile/publicdatalab.bsky.social), [Mastodon](https://vis.social/@publicdatalab), and [LinkedIn](https://www.linkedin.com/company/publicdatalab/).
 
-> 
+> ==Research profiles==: ORCID, Google Scholar, or my DTU Profile. 
+
+
 
 
 
