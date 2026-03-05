@@ -1,7 +1,7 @@
 ---
 title: Welcome
 draft: false
-enableToc: true
+enableToc: false
 tags:
 ---
 
