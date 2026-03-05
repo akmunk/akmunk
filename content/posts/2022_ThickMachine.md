@@ -8,6 +8,7 @@ tags:
   - mispredictions
   - friction
   - facebook
+  - publication
 draft: false
 enableToc: true
 ---
