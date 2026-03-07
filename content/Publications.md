@@ -3,20 +3,21 @@ title: Publications
 draft: false
 enableToc: true
 ---
-## Books
-
-
+## Books and research monographs
+- Madsen, A.K. & Munk, A.K. (2026). Handbook of Digital and Computational Social Sciences and Humanities Research, Edward Elgar.
+- Venturini, T. & Munk, A. K. (2021). [[2021_ControversyMappingFieldGuide|Controversy Mapping: A Field Guide]], Cambridge: Polity Press.
+- Birkbak, A. & Munk, A.K. (2017). Digitale Metoder, København: Hans Retizels Forlag.
+- Munk, A.K. (2010) Risking the Flood: Cartographies of Things to Come, D.Phil. thesis, University of Oxford.
 ## Papers and proceedings
-
 - Larsen, A. B., Munk, A. K., Hansen, H. S., & Scavenius, T. (2026). [[2026_EpistemicGeoIPPCC|Mapping the epistemic geography of the intergovernmental panel on climate change (1995–2022)]]. _Environmental Science & Policy_, _175_, 104291.
-- Søltoft, J.I. & Munk, A.K. (2025). [[2025_RecalcitrantAudiencing|Recalcitrant audiencing: Between analytics and creative practice in the film industry]]. Convergence, 0(0).
+- Søltoft, J.I. & Munk, A.K. (2025). [[2025_RecalcitrantAudiencing|Recalcitrant audiencing: Between analytics and creative practice in the film industry]]. *Convergence*, 0(0).
 - Moran, H., Elmhadi, R., Brusco de Freitas, M., Munk, A. K., & Jess, T. (2025). [[2025_IBDonGoogle|A 15-year analysis of Inflammatory Bowel Disease in Africa using Google Trends.]] Journal of Crohn's and Colitis, 19 (Supplement_1), i2280-i2282.
-- Pilati, F., Munk, A., & Venturini, T. (2024). [[2024_GenAISocialResearch|Generative AI for social research: Going native with artificial intelligence.]] Sociologica, 18(2), 1-8.
-- Munk, A. K., Jacomy, M., Ficozzi, M., & Jensen, T. E. (2024). [[2024_BeyondAIControversies|Beyond artificial intelligence controversies: What are algorithms doing in the scientific literature?]]. Big Data & Society, 11(3)
+- Pilati, F., Munk, A., & Venturini, T. (2024). [[2024_GenAISocialResearch|Generative AI for social research: Going native with artificial intelligence.]] *Sociologica*, 18(2), 1-8.
+- Munk, A. K., Jacomy, M., Ficozzi, M., & Jensen, T. E. (2024). [[2024_BeyondAIControversies|Beyond artificial intelligence controversies: What are algorithms doing in the scientific literature?]]. *Big Data & Society*, 11(3).
 - Jacomy, M., Ficozzi, M., & Munk, A. K. (2024). [Sub-optimal Recall in Visual Cluster Retrieval: When Clusters Look Like Bridges](https://ceur-ws.org/Vol-3834/paper5.pdf). In CEUR Workshop Proceedings (Vol. 3834, pp. 1075-1085). CEUR-WS.
 - Hoeyer, K., Couturier, A., Barawi, K., Drew, C., Grundtvig, A., Lane, E., Munk, A.K., Whiteley, L.E. & Munsie, M. (2024). [Searching for information about stem cells online in an age of artificial intelligence: How should the stem cell community respond?](https://www.cell.com/stem-cell-reports/fulltext/S2213-6711(23)00502-7). Stem Cell Reports, 19(2), 159-162.
 - Munk, A. K.  (2023). [[2023_ComingOfAgeStableDiffusion|Coming of Age in Stable Diffusion]]. Anthropology Now, American Anthropological Association.
-- Coromina, Ò., Tsinovoi, A., & Munk, A. K. (2023). [[2023_DigitalMarketingMethods|Digital marketing as digital methods: Repurposing Google Ads for controversy mapping]]. Big Data & Society, 10(2)
+- Coromina, Ò., Tsinovoi, A., & Munk, A. K. (2023). [[2023_DigitalMarketingMethods|Digital marketing as digital methods: Repurposing Google Ads for controversy mapping]]. Big Data & Society, 10(2).
 - Burgos-Thorsen, S., & Munk, A. K. (2023). [[2023_AlternativeDataImaginariesUrbanStudies|Opening alternative data imaginaries in urban studies: Unfolding COVID place attachments through Instagram photos and computational visual methods]]. Cities, 141, 104470.
 - Jacomy, M., & Munk, A. K. (2022). [[2022_Gephisto|Interfering with the black-box-tradeoff model: Gephisto, a one-click Gephi for critical technical practice]]. Convergence, 13548565221129053.
 - Munk, A. K., Olesen, A. G., & Jacomy, M. (2022). [[2022_ThickMachine|The thick machine: Anthropological AI between explanation and explication]]. Big Data & Society, 9(1)
@@ -37,10 +38,11 @@ enableToc: true
 - Petersen, M.K. & A.K. Munk (2013). [I Vælten: Kulturanalysens Nye Hverdag](https://tidsskrift.dk/fn/article/view/8142), Tidskriftet Kulturstudier, #1, pp.102-117.
 - Munk, A.K. & S. Abrahamsson (2012). [Empiricist Interventions: Strategy and Tactics on the Ontopolitical Battlefield](https://sciencetechnologystudies.journal.fi/article/view/55281), Science Studies, Vol 25 #1, pp.52-77.
 - Munk, A.K. & J.F. Høyrup (2007). [Translating Terroir: Socio-Material Potentials Within Ethnography and Winegrowing](https://www.academia.edu/2237975/Translating_Terroir_Sociomaterial_Potentials_in_Ethnography_and_Wine_growing), , Ethnologia Scandinavica – Journal for Nordic Ethnology, Kungliga Gustav Adolfs Akademien.
-
 ## Book chapters
 - Madsen, A. K., & Munk, A. K. (2026). [[2026_HeterodoxDCSSH|Heterodox research practices in digital and computational SSH (Introduction to the Handbook of Digital and Computational Research Methods)]]. In Handbook of Digital and Computational Research Methods (pp. 1-17). Edward Elgar Publishing.
+- Munk, A.K. & Madsen, A.K. (2025). [[2025_DataCultureData|Data according to culture & culture according to data]]. In: Venturini et al. eds. The Handbook of Data & Society, London: Sage
 - Elgaard Jensen, T., Birkbak, A., Madsen, A.K., Munk, A.K. (2021). [”Participatory Data Design: Acting in a Digital World”](https://vbn.aau.dk/ws/portalfiles/portal/437610441/2021_PARTICIPATORY_DATA_DESIGN_Acting_in_a_Digital_World.pdf), in G. Downey & T. Zuiderent-Jerak (eds.) Making and Doing STS, MIT Press.
+- Winthereik, B. & Munk, A. K., (2023). Digitalizing everyday life in Denmark during the Corona crisis: The construction of an ethnographic archive. In: Abrah, S., Lambert, H. & Robinson, J. eds. *How to Live Through a Pandemic*, ASA Monographs, London: Routledge
 - Munk, A. K. (2021). “Virkeliggørelser: Hvordan bruger man flerstedet etnografi til at beskrive multiple fænomener?”, in B.R. Wintereik & I. Papazu (eds.) [Aktørnetværksteori i praksis](https://www.djoef-forlag.dk/book-info/aktornetvaerksteori), Djøf Forlag.
 - Birkbak, A., Madsen, A. K., & Munk, A. K. (2021). [“Digital methods contributions to citizen hearings: A techno-anthropological approach to Twitter and technology assessment”](https://vbn.aau.dk/ws/portalfiles/portal/423678491/2021_Digital_Methods_Contributions_to_Citizen_Hearings_A_TechnoAnthropological_Approach_to_Twitter_and_Technology_Assessment.pdf). In L. Botin, & T. Børsen (Eds.), Techno-Anthropological Contributions to Technology Assessment, Aalborg Universitetsforlag.
 - Munk, A. K. (2021). [“Tracing Culinary Discourse on Facebook: A Digital Methods Approach”](https://vbn.aau.dk/ws/portalfiles/portal/427726913/Munk_TracingCulinaryDiscourse_Final.pdf). In J. Leer, & S. Krogager (Eds.), Research Methods in Digital Food Studies. Routledge.
@@ -48,6 +50,9 @@ enableToc: true
 - Munk, A.K., Meunier, A., & Venturini, T. (2019) [“Data Sprints: A Collaborative Format in Digital Controversy Mapping”](https://digitalsts.net/wp-content/uploads/2019/11/30_digitalSTS_Data-Sprints.pdf), In J. Vertesi et al. (eds.) Digital STS Handbook. Princeton University Press.
 - Venturini, T., Munk, A.K., & Jacomy, M. (2019). [“Actor-Network VS Network Analysis VS Digital Networks Are We Talking About the Same Networks?”](https://digitalsts.net/wp-content/uploads/2019/11/32_digitalSTS_Actor-Network.pdf) In J. Vertesi et al. (eds.) Digital STS Handbook, Princeton University Press.
 - Munk, A.K., Madsen, A.K, & Jacomy (2019). [”Thinking through the data body: sprints as experimental situations”](https://vbn.aau.dk/ws/files/320713494/MunkKoedJacomy_ThinkkingThroughTheDataBody_FinalDraft.pdf). In M. Elam et al. (eds.) Designs for experimentation and inquiry: Approaching learning and knowing in digital transformation, Routledge.
+
+	## Special issues
+
 
 ## Other texts (not peer reviewed)
 

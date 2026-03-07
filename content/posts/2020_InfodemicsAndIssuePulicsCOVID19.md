@@ -23,6 +23,14 @@ Munk, A. K. (2020). **Internettet, infodemien og den sagsorienterede offentlighe
 >>}
 >> ```
 
+This book chapter began as a pet project during the early days of COVID lockdown in 2020. Forced to work from home, but with no established practice for meeting or teaching virtually yet, there was time to experiment. I decided to follow the trends for COVID-related searches across all national versions of Google. 
+
+![[2020_Infodemic_1.png]]
+
+
+![[2020_Infodemic_2.png]]
+
+![[2020_Infodemic_3.png]]
 
 
 > [!quote] p.281

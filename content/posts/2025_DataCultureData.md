@@ -1,5 +1,5 @@
 ---
-title: DRAFT TITLE
+title: Data, Culture, Data
 date: 2010-12-31
 tags:
 draft: true
@@ -7,7 +7,7 @@ enableToc: true
 ---
 > [!abstract] PUBLICATION
 > 
->Citation APA
+Munk, A.K. & Madsen, A.K. (2025). **Data according to culture & culture according to data**. In: Venturini et al. eds. *The Handbook of Data & Society*, London: Sage
 >
 >> Link to full text
 > 
