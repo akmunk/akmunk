@@ -1,5 +1,5 @@
 ---
-title: Digitizing Everyday Life During the Corona Crisis
+title: Digitizing everyday life during the corona crisis
 date: 2010-12-31
 tags:
 draft: false

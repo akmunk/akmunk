@@ -1,5 +1,5 @@
 ---
-title: Participatory Data Design
+title: Participatory data design
 date: 2021-11-20
 tags:
 draft: true

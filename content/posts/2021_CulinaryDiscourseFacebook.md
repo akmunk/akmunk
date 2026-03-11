@@ -1,5 +1,5 @@
 ---
-title: Culinary Discourse on Facebook
+title: Culinary discourse on facebook
 date: 2021-12-10
 tags:
   - food

@@ -1,5 +1,5 @@
 ---
-title: Computational Ethnography
+title: Computational ethnography
 date: 2010-12-31
 tags:
 draft: true

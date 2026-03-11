@@ -17,7 +17,7 @@ His research advances our understanding of technology as an object of democratic
 Anders Kristian Munk is Professor of Computational Anthropology and Director of the Observatory for Human-Centred Engineering (ECHOlab) at DTU Management, Section for Science & Technology Studies. His research follows the 
 He is the co-author of Controversy Mapping: A Field Guide.
 ## Full bio
-Anders Kristian Munk is Professor of Computational Anthropology and Director of the Observatory for Human-Centred Engineering (ECHOlab) at DTU Management. 
+Anders Kristian Munk (b.1980) is Professor of Computational Anthropology and Director of the Observatory for Human-Centred Engineering (ECHOlab) at DTU Management. 
 
 He studied European Ethnology at the University of Copenhagen (Cand.mag. in European Ethnology, 2006) and received his doctoral training in Geography with Professor Sarah Whamore at Oxford University (D.Phil. in Geography, 2010). 
 

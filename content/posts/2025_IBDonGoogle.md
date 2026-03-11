@@ -1,5 +1,5 @@
 ---
-title: Inflammatory Bowel Disease on Google
+title: Inflammatory bowel disease on google
 date: 2010-12-31
 tags:
 draft: false

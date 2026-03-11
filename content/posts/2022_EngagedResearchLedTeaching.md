@@ -1,5 +1,5 @@
 ---
-title: DRAFT TITLE
+title: Research led teaching
 date: 2010-12-31
 tags:
 draft: false

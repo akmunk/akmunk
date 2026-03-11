@@ -1,5 +1,5 @@
 ---
-title: Data, Culture, Data
+title: Data, culture, data
 date: 2010-12-31
 tags:
 draft: true

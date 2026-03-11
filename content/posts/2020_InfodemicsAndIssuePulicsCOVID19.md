@@ -1,5 +1,5 @@
 ---
-title: COVID Infodemics and Issue Publics
+title: COVID infodemics and issue publics
 date: 2010-12-31
 tags:
 draft: true

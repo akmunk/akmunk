@@ -1,5 +1,5 @@
 ---
-title: The Thick Machine
+title: The thick machine
 date: 2022-11-01
 tags:
   - computational_anthropology

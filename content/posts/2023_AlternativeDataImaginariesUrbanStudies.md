@@ -1,5 +1,5 @@
 ---
-title: Alternative Data Imaginaries in Urban Studies
+title: Alternative data imaginaries in urban studies
 date: 2010-12-31
 tags:
   - Corona

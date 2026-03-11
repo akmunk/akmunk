@@ -1,5 +1,5 @@
 ---
-title: A Field Guide to Controversy Mapping
+title: Controversy mapping field guide
 date: 2021-12-01
 tags:
   - publication

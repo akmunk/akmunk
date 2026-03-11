@@ -1,5 +1,5 @@
 ---
-title: Beyond AI Controversies
+title: Beyond artificial intelligence controversies
 date: 2010-12-31
 tags:
 draft: false

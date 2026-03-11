@@ -1,5 +1,5 @@
 ---
-title: The Digitization of Everyday Life
+title: The Digitization of Everyday Life During Covid 19
 tags:
   - COVID-19
   - Corona

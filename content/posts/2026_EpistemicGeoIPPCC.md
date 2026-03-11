@@ -1,5 +1,5 @@
 ---
-title: Mapping the Epistemic Geographies of the IPCC
+title: Mapping the epistemic geographies of the IPCC
 date: 2026-01-15
 tags:
 draft: false

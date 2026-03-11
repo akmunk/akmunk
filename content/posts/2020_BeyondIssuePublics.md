@@ -1,5 +1,5 @@
 ---
-title: Beyond Issue Publics
+title: Beyond issue publics
 date: 2020-09-20
 tags:
   - digital_methods

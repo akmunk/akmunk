@@ -1,5 +1,5 @@
 ---
-title: Coming of Age in Stable Diffusion
+title: Coming of age in stable diffusion
 date: 2023-06-01
 tags:
 draft: false
