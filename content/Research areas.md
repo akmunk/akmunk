@@ -11,7 +11,7 @@ My research focuses on controversy
 As a consequence, I work with sociotechnical controversies in a variety of empirical contexts. Below, I go through some of the research areas that I keep engaging with. 
 
 ## Food
-My first piece of serious ethnographic fieldwork [[2007_TranslatingTerroir|took place in the French wine industry]]. I followed valuation struggles around the notion of *terroir* and the establishment of new geographical appellations (AOCs) in the Languedoc region for my master thesis in 2005. I have since written about this experience in my [[2021_ControversyMappingFieldGuide|field guide to controversy mapping]] with Tommaso Venturini, where we use the example to show how manual controversy mapping can unfold.
+My first piece of serious ethnographic fieldwork [[2007_TranslatingTerroir|took place in the French wine industry]]. I followed valuation struggles around the notion of *terroir* and the establishment of new geographical appellations (AOCs) in the Languedoc region. I have since written about this experience in my [[2021_ControversyMappingFieldGuide|field guide to controversy mapping]] with Tommaso Venturini, where we use the example to show how manual controversy mapping can unfold.
 ![[2021_ControversyMapping_Fig28.jpg]]
 
 
@@ -23,11 +23,12 @@ I have kept coming back to it several times, last
 I am currently involved 
 Tracing Cullinary Discourse on Facebook
 Wine 
-Digital Food 
+In 2025, I participated in a workshop funded by the VolksWDigital Food 
 
 ## Health
-
-HPV
+Although I have never had any major grants in this area, I keep coming back to a range of health related discussions either through
+I worked with the Danish Cancer foundation and HPV to understand what happened around the HPV vaccine controversy following the release of a Danish documentary on side effects.
+At the TANTlab
 
 Crohns
 Obesity
@@ -44,7 +45,7 @@ Energy islands
 ### Artificial intelligence
 ADD
 CXAI
-
+FAIces advisory board. 
 ### Digitalization
 COVID
 DIGI-Front
