@@ -19,9 +19,11 @@ where he focuses on public engagement with technology and controversies surround
 
 His research advances our understanding of technology as an object of democratic debate and deliberation and contributes new methods for mapping and monitoring such debates. wicked problems where technology is at stake and multiple  with multiple stakeholders and conflicting problem frames through computational analysis of large qualitative datasets. In that capacity he directs the Observatory for Technological Questions in Society (ECHOlab) at the Section for Science & Technology Studies.
 ## Full bio
-Anders Kristian Munk (b.1980) is Professor of Computational Anthropology and Director of the Observatory for Human-Centred Engineering (ECHOlab) at DTU Management. 
+Anders Kristian Munk (b.1980) is Professor of Computational Anthropology and Director of the Observatory for Technological Questions in Society (ECHOlab) at the Technical University of Denmark (DTU). 
 
-He studied European Ethnology at the University of Copenhagen (Cand.mag. in European Ethnology, 2006) and received his doctoral training in Geography with Professor Sarah Whamore at Oxford University (D.Phil. in Geography, 2010). 
+He studied European Ethnology at the University of Copenhagen and received his doctoral training in Geography with Professor Sarah Whatmore at Oxford University. He has since worked under Bruno Latour at the Sciences Po médialab, been a visiting research fellow at the Paris Institute of Advanced Studies and the Oxford University Centre for the Environment, assistant professor at the Technical University of Denmark and Aalborg University in Copenhagen. He became associate professor 
+
+
 
 While conducting ethnographic fieldwork for his master thesis in France (thesis on the notion on the valuation of terroir), he became interested in Actor-Network Theory, Market Sociology and the. He won competitive scholarship for 
 
