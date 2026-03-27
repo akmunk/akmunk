@@ -21,7 +21,9 @@ His research advances our understanding of technology as an object of democratic
 ## Full bio
 Anders Kristian Munk (b.1980) is Professor of Computational Anthropology and Director of the Observatory for Technological Questions in Society (ECHOlab) at the Technical University of Denmark (DTU). 
 
-He studied European Ethnology at the University of Copenhagen and received his doctoral training in Geography with Professor Sarah Whatmore at Oxford University. He has since worked under Bruno Latour at the Sciences Po médialab, been a visiting research fellow at the Paris Institute of Advanced Studies and the Oxford University Centre for the Environment, assistant professor at the Technical University of Denmark and Aalborg University in Copenhagen. He became associate professor 
+He studied European Ethnology at the University of Copenhagen and received his doctoral training in Geography with Professor Sarah Whatmore at Oxford University. 
+
+He has since worked under Bruno Latour at the Sciences Po médialab, been a visiting research fellow at the Paris Institute of Advanced Studies and the Oxford University Centre for the Environment, assistant professor at the Technical University of Denmark and Aalborg University in Copenhagen. He became associate professor 
 
 
 
