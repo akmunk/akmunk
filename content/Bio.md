@@ -4,8 +4,11 @@ enableToc: true
 draft: false
 ---
 
-## Ultra short bio (~30 words)
+## Ultra short bios (sub 50 words)
 Anders Kristian Munk is Professor of Computational Anthropology at the Technical University of Denmark. His research focuses on technological controversies in society and the integration of qualitative and computational methods for controversy mapping.
+
+✄
+
 ## Short bio (~100 words)
 Anders Kristian Munk is Professor of Computational Anthropology and head of the Observatory for Technological Questions in Society at the Technical University of Denmark (DTU). His research focuses on  controversies around a wide range of sociotechnical problems, spanning from energy and climate change to food systems, urban planning, and artificial intelligence. He develops computationally assisted methods for controversy mapping, combining ethnographic and participatory approaches with large scale qualitative data analysis, machine learning and natural language processing. He is the author of Controversy Mapping: A Field Guide (2021), with Tommaso Venturini, and co-founder of the Techno-Anthropology Lab and the Public Data Lab.
 ## Longer Bio (~150 words)
@@ -13,9 +16,7 @@ Anders Kristian Munk is Professor of Computational Anthropology and head of the 
 Anders Kristian Munk is Professor of Computational Anthropology and Director of the Observatory for Human-Centred Engineering (ECHOlab) at DTU Management, Section for Science & Technology Studies. His research follows the 
 He is the co-author of Controversy Mapping: A Field Guide.
 
-
 where he focuses on public engagement with technology and controversies surrounding  technological innovation in society. 
-
 
 His research advances our understanding of technology as an object of democratic debate and deliberation and contributes new methods for mapping and monitoring such debates. wicked problems where technology is at stake and multiple  with multiple stakeholders and conflicting problem frames through computational analysis of large qualitative datasets. In that capacity he directs the Observatory for Technological Questions in Society (ECHOlab) at the Section for Science & Technology Studies.
 ## Full bio

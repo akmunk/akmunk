@@ -11,13 +11,11 @@ My research focuses on controversy
 As a consequence, I work with sociotechnical controversies in a variety of empirical contexts. Below, I go through some of the research areas that I keep engaging with. 
 
 ## Food
-My first piece of serious ethnographic fieldwork [[2007_TranslatingTerroir|took place in the French wine industry]]. I followed valuation struggles around the notion of *terroir* and the establishment of new geographical appellations (AOCs) in the Languedoc region. I have since written about this experience in my [[2021_ControversyMappingFieldGuide|field guide to controversy mapping]] with Tommaso Venturini, where we use the example to show how manual controversy mapping can unfold.
-![[2021_ControversyMapping_Fig28.jpg]]
-
+My first piece of ethnographic fieldwork [[2007_TranslatingTerroir|took place in the French wine industry]]. I followed valuation struggles around the notion of ==**terroir**== and the establishment of new geographical appellations (AOCs) in the Languedoc region. I have since written about this experience in my [[2021_ControversyMappingFieldGuide|field guide to controversy mapping]] with Tommaso Venturini, where we use the example to show how manual controversy mapping can unfold, 
 
 , and in an an introductory text to the concepts of becoming and ontological multiplicity in an . I also used the example in my inaugural lecture as professor of computational anthropology. 
 
-In 2012, I won a grant from the Carlsberg Foundation to map the evolving issue scape of the [[2012_EdibleNorth|New Nordic Food]] phenomenon. 
+In 2012, I won a grant from the Carlsberg Foundation to map the evolving issue scape of the ==**New Nordic Food**== phenomenon. The [[2012_EdibleNorth|Edible North]] project followed how the New Nordic Cuisine became more than a culinary movement and in the process entwined with a range of other matters of concern across the Nordic region. I used it as an occasion to experiment with ways of blending web scraping and ethnography 
 I have kept coming back to it several times, last
 
 I am currently involved 
@@ -43,6 +41,7 @@ Wind turbines
 Energy islands 
 
 ### Artificial intelligence
+This is also an area where I have been 
 ADD
 CXAI
 FAIces advisory board. 
