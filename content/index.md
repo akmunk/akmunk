@@ -4,7 +4,11 @@ draft: false
 enableToc: false
 tags:
 ---
-I use this space as my research blog and personal website. I am Professor of Computational Anthropology at the Technical University of Denmark where I study  controversies about technology in society and develop new methods to monitor and understand them. I have a mixed background in European Ethnology, Human Geography and STS, but I spend most of my time on methods and the way AI and computational techniques create new possibilities for qualitative analysis at scale. I also play [whale punk](https://open.spotify.com/artist/4ZiE8tzaRquJl7KPoZXNnQ?si=ms6sMrDZS1e0Oipyr5x7SQ) 🐋. 
+I use this space as my research blog and personal website. I am Professor of Computational Anthropology at the Technical University of Denmark where I study  controversies about technology in society and develop new methods to monitor and understand them. 
+
+I am intersted in questions like
+
+I have a mixed background in European Ethnology, Human Geography and STS, but I spend most of my time on methods and the way AI and computational techniques create new possibilities for qualitative analysis at scale. I also play [whale punk](https://open.spotify.com/artist/4ZiE8tzaRquJl7KPoZXNnQ?si=ms6sMrDZS1e0Oipyr5x7SQ) 🐋. 
 ## Expect to find the following
 >  I use the [[posts/|blog]] to post running notes about my research. Publications, project activities, events, reflections, etc. 
 

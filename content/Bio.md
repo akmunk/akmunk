@@ -7,7 +7,10 @@ draft: false
 ## Ultra short bios (sub 50 words)
 Anders Kristian Munk is Professor of Computational Anthropology at the Technical University of Denmark. His research focuses on technological controversies in society and the integration of qualitative and computational methods for controversy mapping.
 
-✄
+✄-------✄
+
+Anders Kristian Munk investigates how science and technology becomes controversial in society, why it matters, and what we can do about it. 
+I am interested in how techology becomes controversial in society.
 
 ## Short bio (~100 words)
 Anders Kristian Munk is Professor of Computational Anthropology and head of the Observatory for Technological Questions in Society at the Technical University of Denmark (DTU). His research focuses on  controversies around a wide range of sociotechnical problems, spanning from energy and climate change to food systems, urban planning, and artificial intelligence. He develops computationally assisted methods for controversy mapping, combining ethnographic and participatory approaches with large scale qualitative data analysis, machine learning and natural language processing. He is the author of Controversy Mapping: A Field Guide (2021), with Tommaso Venturini, and co-founder of the Techno-Anthropology Lab and the Public Data Lab.
